@@ -1,6 +1,4 @@
-# flutter_utils
-Flutter utility code snippets
-
+# Flutter utility code snippets
 
 <details>
 <summary><b> 1. Spacing constant utility class</b></summary>
